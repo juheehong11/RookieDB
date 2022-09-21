@@ -2,7 +2,7 @@
 
 This is a in-class (CS 186) project I completed with a partner, where we built a bare-bones database over the course of a semester, utilizing what we learnt about DB structures from the course when designing and implementing each part of RookieDB. We split up the work pretty evenly in most cases, and collaborated directly on multiple parts. I was also focused on making sure our database would work as intended, and came up with many of the test cases, so I believe that roughly 60% of the project is my contribution, and roughly 40% of the project is my partner's contributions. 
 
-You can find our main code in RookieDB/src/main/java/edu/berkeley/cs186/database.
+You can find our main code in https://github.com/juheehong11/RookieDB/tree/main/src/main/java/edu/berkeley/cs186/database .
 
 Most of our work are in the directories "index", "query", "table", "memory", "concurrency", and "recovery", as well as writing a multitude of tests related to each of these modularized parts to ensure that our code was implemented correctly. Most other parts of the code were provided to us by the wonderful CS 186 course staff. 
 
